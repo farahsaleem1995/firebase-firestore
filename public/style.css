@@ -101,3 +101,34 @@ button {
   letter-spacing: 1px;
   color: #999;
 }
+
+#message {
+  padding: 40px;
+}
+#inner-message {
+  padding: 0 60px;
+}
+
+#message h1 {
+  margin-top: 20px;
+}
+
+#message h2 {
+  color: #fff;
+  font-size: 48px;
+  letter-spacing: 1px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+#message h3 {
+  color: #222;
+  font-size: 24px;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+#message p {
+  color: #333;
+}
